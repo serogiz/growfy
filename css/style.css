@@ -808,6 +808,9 @@ body {
     border-radius: 30px;
     padding: 65px 40px;
 }
+.testimonials__icon{
+    display: flex;
+}
 
 .testimonials__icon-img {
     max-width: 68px;
